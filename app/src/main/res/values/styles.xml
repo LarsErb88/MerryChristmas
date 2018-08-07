@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#33691E</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#000000</item>
+    </style>
+
+    <!-- Style of the TextViews. -->
+    <style name="TextStyle">
+        <item name="android:textSize">46dp</item>
+        <item name="android:textColor">#F4511E</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:fontFamily">cursive</item>
+    </style>
+
+</resources>
